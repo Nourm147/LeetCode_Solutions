@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0813-largest-sum-of-averages/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
