@@ -7,25 +7,19 @@ public:
         {
             fr[s[i] - 'a'] ++;
         }
-        string res;
-        for(int i = 0; i < fr.size(); i ++)
-        {
-            if(fr[i] % 2)
-                odd = i;
-            for(int j = 0; j < fr[i] / 2; j ++){
-                res += ('a' + i);
-            }
-        }
-        if(odd != -1)
-            res += ('a' + odd);
 
-        for(int i = fr.size() - 1; i >= 0; i --)
+        int i = 0, j = s.size() - 1; 
+        for(int ind = 0; ind < fr.size(); ind ++)
         {
-            for(int j = 0; j < fr[i] / 2; j ++){
-                res += ('a' + i);
+            while(fr[ind] > 1){
+                s[i] = ('a' + ind);
+                s[j] = ('a' + ind);
+                fr[ind] -= 2;
+                i ++;
+                j--;
             }
         }
 
-        return res;
+        return s;
     }
 };
