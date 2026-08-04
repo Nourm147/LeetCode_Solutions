@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2490-circular-sentence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2490-circular-sentence/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
