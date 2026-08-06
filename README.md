@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Bit Manipulation
@@ -149,4 +150,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
