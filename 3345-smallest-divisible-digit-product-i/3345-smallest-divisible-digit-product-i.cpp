@@ -1,19 +1,16 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-        while(true){
-            int tmp = n;
-            int mul = 1;
-            while(tmp != 0)
-            {
-                mul *= tmp % 10;
-                tmp /= 10;
-            }
-            if(mul % t == 0)
-                break;
-            n ++;
-        }
 
-        return n;
+        int q = n / 10;
+        int r = n % 10;
+
+        int rmin = t / gcd(max(q, 1), t);
+
+        int nxt = ((r + rmin - 1) / rmin) * rmin;
+
+        int x = nxt - (nxt - 10) * (nxt / 10);
+                
+        return 10 * q + x;
     }
 };
