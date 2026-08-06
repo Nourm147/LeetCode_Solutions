@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0292-nim-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0650-2-keys-keyboard/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -160,4 +162,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
