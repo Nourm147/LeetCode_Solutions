@@ -12,7 +12,7 @@
 class Solution {
 public:
 
-    map<int, int> mp;
+    unordered_map<int, int> mp;
     int n;
     TreeNode* construct(int preS, int preE, int postS,vector<int>& pre,vector<int>& post){
         if(preS>preE)
