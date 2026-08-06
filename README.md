@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0292-nim-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0650-2-keys-keyboard/) | Medium |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
