@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2615-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0813-largest-sum-of-averages](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0813-largest-sum-of-averages/) | Medium |
+| [2615-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2615-sum-of-distances/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2615-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
