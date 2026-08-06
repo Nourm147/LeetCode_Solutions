@@ -8,7 +8,7 @@ public:
         int countB = 0;
     };
     vector<long long> distance(vector<int>& nums) {
-        map<int, el> mp;
+        unordered_map<int, el> mp;
         vector<long long> ans(nums.size());
 
         for(int i = 0;i < nums.size(); i ++)
