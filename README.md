@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0877-stone-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1406-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -141,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
