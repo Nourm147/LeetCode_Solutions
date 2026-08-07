@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1406-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0877-stone-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -158,10 +161,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Nourm147/LeetCode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -171,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Nourm147/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 <!---LeetCode Topics End-->
