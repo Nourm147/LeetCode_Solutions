@@ -34,7 +34,8 @@ public:
 
         if(level >= lv.size())
             lv.push_back({});
-        lv[level].push_back(node->val);
+        if(level % 2 == 1)
+            lv[level].push_back(node->val);
 
         construct(node->left, level + 1, lv);
         construct(node->right, level + 1, lv);
