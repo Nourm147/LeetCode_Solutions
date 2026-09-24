@@ -1,9 +1,14 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        for(int i = 0; i < matrix.size(); i ++){
-            if(binary_search(matrix[i].begin(), matrix[i].end(), target))
+        int row = 0, col = matrix[0].size() - 1;
+        while(row < matrix.size() && col >= 0){
+            if(matrix[row][col] == target)
                 return true;
+            if(matrix[row][col] < target)
+                row ++;
+            else
+                col --;
         }
         return false;
     }
