@@ -11,15 +11,15 @@ public:
                 open ++;
                 if(open == 1)
                     continue;
-                result.push_back('(');
             }
             else
             {
                 open--;
                 if(open == 0)
                     continue;
-                result.push_back(')');
             }
+            result.push_back(s[i]);
+
         }
         return result;
     }
