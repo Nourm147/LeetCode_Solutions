@@ -8,11 +8,9 @@ public:
         {
             if(s[i] == '(')
             {
-                if(open == 0){
-                    open ++;
-                    continue;
-                }
                 open ++;
+                if(open == 1)
+                    continue;
                 result.push_back('(');
             }
             else
