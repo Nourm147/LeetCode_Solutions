@@ -1,0 +1,35 @@
+name: Auto-Update LeetCode README & Structure
+
+on:
+  push:
+    branches:
+      - main  # Change to 'master' if your default branch is master
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run organization script
+        run: python update_readme.py
+
+      - name: Commit and push changes if updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.io"
+          git add .
+          git diff --staged --quiet || git commit -m "chore: auto-organize solutions and update README [skip ci]"
+          git push
