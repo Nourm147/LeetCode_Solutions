@@ -1503,5 +1503,12 @@
             "Depth-First Search",
             "Binary Tree"
         ]
+    },
+    "length-of-last-word": {
+        "questionId": "0058",
+        "difficulty": "Easy",
+        "topics": [
+            "String"
+        ]
     }
 }
