@@ -1510,5 +1510,15 @@
         "topics": [
             "String"
         ]
+    },
+    "maximum-depth-of-binary-tree": {
+        "questionId": "0104",
+        "difficulty": "Easy",
+        "topics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
     }
 }

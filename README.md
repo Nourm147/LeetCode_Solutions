@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 161
-- **Easy:** 49
+- **Total Problems:** 162
+- **Easy:** 50
 - **Medium:** 98
 - **Hard:** 14
 
@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0207-course-schedule/) | Medium |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0133-clone-graph/) | Medium |
@@ -783,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
