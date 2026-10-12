@@ -4,6 +4,10 @@ import json
 import shutil
 import requests
 
+# AUTOMATICALLY LOCK WORKING DIRECTORY TO WHERE THIS SCRIPT LIVES
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+os.chdir(BASE_DIR)
+
 CACHE_FILE = "leetcode_cache.json"
 README_FILE = "README.md"
 GRAPHQL_URL = "https://leetcode.com/graphql"
@@ -116,7 +120,6 @@ def main():
             canonical_name = f"{q_id}-{slug}"
             target_dir = os.path.join(diff, canonical_name)
 
-            # If folder needs to be renamed/moved to match the correct ID/difficulty
             if os.path.abspath(full_path) != os.path.abspath(target_dir):
                 if os.path.exists(target_dir):
                     print(f"[!] Overwriting existing conflicting folder '{canonical_name}'")
@@ -154,7 +157,6 @@ def main():
 
     print(f"\nSynced Count -> Total: {len(problems)} | Easy: {stats['Easy']} | Medium: {stats['Medium']} | Hard: {stats['Hard']}")
 
-    # Read existing README.md to preserve header
     if os.path.exists(README_FILE):
         with open(README_FILE, "r", encoding="utf-8") as f:
             readme_text = f.read()
@@ -194,7 +196,7 @@ def main():
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(final_readme)
 
-    print("README.md successfully updated!")
+    print("README.md successfully updated right here in the directory!")
 
 if __name__ == "__main__":
     main()
