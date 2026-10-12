@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 160
-- **Easy:** 48
+- **Total Problems:** 161
+- **Easy:** 49
 - **Medium:** 98
 - **Hard:** 14
 
@@ -742,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0058-length-of-last-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0058-length-of-last-word/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0886-score-of-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0886-score-of-parentheses/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0957-minimum-add-to-make-parentheses-valid/) | Medium |

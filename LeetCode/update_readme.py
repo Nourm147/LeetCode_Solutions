@@ -9,7 +9,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 os.chdir(BASE_DIR)
 
 CACHE_FILE = "leetcode_cache.json"
-README_FILE = "README.md"
+README_FILE = "../README.md"
 GRAPHQL_URL = "https://leetcode.com/graphql"
 REPO_URL = "https://github.com/Nourm147/LeetCode_Solutions/tree/main"
 
