@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 163
+- **Total Problems:** 164
 - **Easy:** 50
-- **Medium:** 99
+- **Medium:** 100
 - **Hard:** 14
 
 ---
@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0075-sort-colors/) | Medium |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0064-minimum-path-sum/) | Medium |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0055-jump-game/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0957-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1952-minimum-sideway-jumps](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1952-minimum-sideway-jumps/) | Medium |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2095-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |

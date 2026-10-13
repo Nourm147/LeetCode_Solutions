@@ -1529,5 +1529,14 @@
             "Greedy",
             "Sorting"
         ]
+    },
+    "jump-game": {
+        "questionId": "0055",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+        ]
     }
 }
