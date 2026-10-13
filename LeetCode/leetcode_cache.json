@@ -1547,5 +1547,13 @@
             "Backtracking",
             "Algorithm X"
         ]
+    },
+    "n-queens-ii": {
+        "questionId": "0052",
+        "difficulty": "Hard",
+        "topics": [
+            "Backtracking",
+            "Algorithm X"
+        ]
     }
 }

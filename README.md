@@ -5,10 +5,10 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 165
+- **Total Problems:** 166
 - **Easy:** 50
 - **Medium:** 100
-- **Hard:** 15
+- **Hard:** 16
 
 ---
 
@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0052-n-queens-ii/) | Hard |
 
 ## Array
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
