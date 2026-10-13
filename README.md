@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 162
+- **Total Problems:** 163
 - **Easy:** 50
-- **Medium:** 98
+- **Medium:** 99
 - **Hard:** 14
 
 ---
@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3919-network-recovery-pathways](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3919-network-recovery-pathways/) | Hard |
 | [3993-transform-binary-string-using-subsequence-sort](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3993-transform-binary-string-using-subsequence-sort/) | Medium |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4033-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4078-maximum-alternating-sum-of-squares/) | Medium |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4080-smallest-missing-multiple-of-k/) | Easy |
 | [4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [4107-find-missing-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4107-find-missing-elements/) | Easy |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3993-transform-binary-string-using-subsequence-sort](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3993-transform-binary-string-using-subsequence-sort/) | Medium |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4078-maximum-alternating-sum-of-squares/) | Medium |
 | [4348-maximum-total-sum-of-k-selected-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4348-maximum-total-sum-of-k-selected-elements/) | Medium |
 
 ## Hash Function
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3562-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3812-smallest-palindromic-rearrangement-i/) | Medium |
 | [3859-maximum-product-of-two-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3859-maximum-product-of-two-digits/) | Easy |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4078-maximum-alternating-sum-of-squares/) | Medium |
 | [4107-find-missing-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4107-find-missing-elements/) | Easy |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4242-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4282-sort-vowels-by-frequency](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4282-sort-vowels-by-frequency/) | Medium |

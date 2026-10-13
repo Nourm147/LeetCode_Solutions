@@ -1520,5 +1520,14 @@
             "Breadth-First Search",
             "Binary Tree"
         ]
+    },
+    "maximum-alternating-sum-of-squares": {
+        "questionId": "4078",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ]
     }
 }
