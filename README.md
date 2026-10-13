@@ -5,12 +5,17 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 164
+- **Total Problems:** 165
 - **Easy:** 50
 - **Medium:** 100
-- **Hard:** 14
+- **Hard:** 15
 
 ---
+
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0051-n-queens/) | Hard |
 
 ## Array
 | Problem Name | Difficulty |
@@ -27,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0036-valid-sudoku/) | Medium |
 | [0046-permutations](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0063-unique-paths-ii/) | Medium |
@@ -111,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
