@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 166
+- **Total Problems:** 167
 - **Easy:** 50
-- **Medium:** 100
+- **Medium:** 101
 - **Hard:** 16
 
 ---
@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3993-transform-binary-string-using-subsequence-sort](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3993-transform-binary-string-using-subsequence-sort/) | Medium |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4078-maximum-alternating-sum-of-squares/) | Medium |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4084-maximize-sum-of-squares-of-digits/) | Medium |
 | [4348-maximum-total-sum-of-k-selected-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4348-maximum-total-sum-of-k-selected-elements/) | Medium |
 
 ## Hash Function
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3859-maximum-product-of-two-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3859-maximum-product-of-two-digits/) | Easy |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3918-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3995-gcd-of-odd-and-even-sums/) | Easy |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4084-maximize-sum-of-squares-of-digits/) | Medium |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4139-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4242-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4245-count-commas-in-range](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4245-count-commas-in-range/) | Easy |

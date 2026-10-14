@@ -1555,5 +1555,13 @@
             "Backtracking",
             "Algorithm X"
         ]
+    },
+    "maximize-sum-of-squares-of-digits": {
+        "questionId": "4084",
+        "difficulty": "Medium",
+        "topics": [
+            "Math",
+            "Greedy"
+        ]
     }
 }
