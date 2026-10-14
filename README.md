@@ -5,10 +5,10 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 167
+- **Total Problems:** 168
 - **Easy:** 50
 - **Medium:** 101
-- **Hard:** 16
+- **Hard:** 17
 
 ---
 
@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0036-valid-sudoku/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -698,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1020-longest-turbulent-subarray/) | Medium |
@@ -763,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0058-length-of-last-word/) | Easy |
+| [0076-minimum-window-substring](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0076-minimum-window-substring/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0886-score-of-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0886-score-of-parentheses/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0957-minimum-add-to-make-parentheses-valid/) | Medium |

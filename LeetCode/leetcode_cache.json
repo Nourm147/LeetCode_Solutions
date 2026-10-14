@@ -1563,5 +1563,14 @@
             "Math",
             "Greedy"
         ]
+    },
+    "minimum-window-substring": {
+        "questionId": "0076",
+        "difficulty": "Hard",
+        "topics": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ]
     }
 }
