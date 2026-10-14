@@ -1,13 +1,13 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        map<char, int> tr;
+        vector<int> tr(128, 0);
         for(int i = 0; i < t.size(); i ++)
         {
             tr[t[i]]++;
         }
 
-        map<char, int> current;
+        vector<int> current(128, 0);
         int mnS;
         int mnL = INT_MAX;
 
@@ -16,11 +16,12 @@ public:
         {
             current[s[r]]++;
             bool valid = true;
-            for(auto& p : tr)
+            for(int i = 0; i < 128; i ++)
             {
-                if(p.second > current[p.first])
+                if(tr[i] > current[i])
                 {
                     valid = false;
+                    break;
                 }
             }
             if(valid)
@@ -32,11 +33,12 @@ public:
                 while(valid){
                     current[s[l]]--;
                     l++;
-                    for(auto& p : tr)
+                    for(int i = 0; i < 128; i ++)
                     {
-                        if(p.second > current[p.first])
+                        if(tr[i] > current[i])
                         {
                             valid = false;
+                            break;
                         }
                     }
                     if(valid)
