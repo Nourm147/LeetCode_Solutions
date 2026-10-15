@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 168
-- **Easy:** 50
+- **Total Problems:** 169
+- **Easy:** 51
 - **Medium:** 101
 - **Hard:** 17
 
@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2844-sum-of-squares-of-special-elements/) | Easy |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3163-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3170-find-indices-with-index-and-value-difference-ii/) | Medium |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3225-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0493-reverse-pairs/) | Hard |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3163-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 
 ## Binary Search
 | Problem Name | Difficulty |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1387-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2609-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2721-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2721-sum-of-distances/) | Medium |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3163-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3225-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3349-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -674,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0493-reverse-pairs/) | Hard |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3163-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 
 ## Shortest Path
 | Problem Name | Difficulty |
