@@ -4,11 +4,10 @@ public:
         int result = 0;
         for(int i = 0; i < nums.size(); i ++)
         {
-            unordered_map<int, int> mp;
+            unordered_set<int> s;
             for(int j = i; j < nums.size(); j++){
-                mp[nums[j]] ++;
-                int tmp = mp.size();
-                result += tmp * tmp;
+                s.insert(nums[j]);
+                result += s.size() * s.size();
             }
         }
         return result;
