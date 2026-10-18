@@ -5,10 +5,10 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 169
+- **Total Problems:** 170
 - **Easy:** 51
 - **Medium:** 101
-- **Hard:** 17
+- **Hard:** 18
 
 ---
 
@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3562-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3705-find-the-largest-almost-missing-integer/) | Easy |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3799-unique-3-digit-even-numbers/) | Easy |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3824-number-of-unique-xor-triplets-i/) | Medium |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2106-find-greatest-common-divisor-of-array/) | Easy |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2609-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 
 ## Game Theory
 | Problem Name | Difficulty |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2106-find-greatest-common-divisor-of-array/) | Easy |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2609-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 
 ## Greedy
 | Problem Name | Difficulty |
@@ -463,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3225-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3349-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3705-find-the-largest-almost-missing-integer/) | Easy |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3799-unique-3-digit-even-numbers/) | Easy |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4080-smallest-missing-multiple-of-k/) | Easy |
@@ -489,6 +493,11 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
+
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 
 ## Linked List
 | Problem Name | Difficulty |
@@ -537,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3626-smallest-divisible-digit-product-i/) | Easy |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3824-number-of-unique-xor-triplets-i/) | Medium |
 | [3859-maximum-product-of-two-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3859-maximum-product-of-two-digits/) | Easy |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3918-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -603,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2106-find-greatest-common-divisor-of-array/) | Easy |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2609-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3995-gcd-of-odd-and-even-sums/) | Easy |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4242-sum-of-gcd-of-formed-pairs/) | Medium |
 
@@ -866,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2582-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 
 ## Zero-Sum Game
 | Problem Name | Difficulty |

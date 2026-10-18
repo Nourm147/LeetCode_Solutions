@@ -1582,5 +1582,19 @@
             "Binary Indexed Tree",
             "Segment Tree"
         ]
+    },
+    "count-connected-components-in-lcm-graph": {
+        "questionId": "3680",
+        "difficulty": "Hard",
+        "topics": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Union-Find",
+            "Number Theory",
+            "Least Common Multiple",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+        ]
     }
 }
