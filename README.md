@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 170
-- **Easy:** 51
+- **Total Problems:** 171
+- **Easy:** 52
 - **Medium:** 101
 - **Hard:** 18
 
@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2099-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2106-find-greatest-common-divisor-of-array/) | Easy |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2206-detonate-the-maximum-bombs/) | Medium |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2210-find-target-indices-after-sorting-array/) | Easy |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2265-partition-array-according-to-given-pivot/) | Medium |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2349-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0493-reverse-pairs/) | Hard |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2210-find-target-indices-after-sorting-array/) | Easy |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2418-minimum-sum-of-squared-difference/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3562-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -735,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0941-sort-array-by-parity/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1256-rank-transform-of-an-array/) | Easy |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1574-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2210-find-target-indices-after-sorting-array/) | Easy |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2418-minimum-sum-of-squared-difference/) | Medium |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |

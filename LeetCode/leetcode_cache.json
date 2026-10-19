@@ -1596,5 +1596,14 @@
             "Euclidean Algorithm",
             "Greatest Common Divisor"
         ]
+    },
+    "find-target-indices-after-sorting-array": {
+        "questionId": "2210",
+        "difficulty": "Easy",
+        "topics": [
+            "Array",
+            "Binary Search",
+            "Sorting"
+        ]
     }
 }
