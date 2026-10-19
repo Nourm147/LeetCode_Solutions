@@ -1605,5 +1605,14 @@
             "Binary Search",
             "Sorting"
         ]
+    },
+    "subsets-ii": {
+        "questionId": "0090",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+        ]
     }
 }

@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 171
+- **Total Problems:** 172
 - **Easy:** 52
-- **Medium:** 101
+- **Medium:** 102
 - **Hard:** 18
 
 ---
@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0137-single-number-ii/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0201-bitwise-and-of-numbers-range/) | Medium |
