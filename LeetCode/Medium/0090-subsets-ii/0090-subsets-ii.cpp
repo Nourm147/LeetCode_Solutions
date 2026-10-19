@@ -2,6 +2,8 @@ class Solution {
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         int off = 1;
+        sort(nums.begin(), nums.end());
+
         vector<vector<int>> result (1 << nums.size());
         for(int i = 0; i < nums.size(); i ++)
         {
@@ -15,9 +17,7 @@ public:
             }
             off *= 2;
         }
-        for(int i = 0; i < result.size(); i++){
-            sort(result[i].begin(), result[i].end());
-        }
+
         set<vector<int>> s {result.begin(), result.end()};
         result = {s.begin(), s.end()};
 
