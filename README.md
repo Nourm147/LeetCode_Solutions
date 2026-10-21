@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 172
-- **Easy:** 52
+- **Total Problems:** 173
+- **Easy:** 53
 - **Medium:** 102
 - **Hard:** 18
 
@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0149-max-points-on-a-line/) | Hard |
+| [0866-rectangle-overlap](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0866-rectangle-overlap/) | Easy |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2206-detonate-the-maximum-bombs/) | Medium |
 
 ## Graph Theory
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
+| [0866-rectangle-overlap](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0866-rectangle-overlap/) | Easy |
 | [0909-stone-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0909-stone-game/) | Medium |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1585-the-kth-factor-of-n](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1585-the-kth-factor-of-n/) | Medium |

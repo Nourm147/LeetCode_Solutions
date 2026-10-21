@@ -1614,5 +1614,13 @@
             "Backtracking",
             "Bit Manipulation"
         ]
+    },
+    "rectangle-overlap": {
+        "questionId": "0866",
+        "difficulty": "Easy",
+        "topics": [
+            "Math",
+            "Geometry"
+        ]
     }
 }
