@@ -1622,5 +1622,21 @@
             "Math",
             "Geometry"
         ]
+    },
+    "check-if-it-is-a-straight-line": {
+        "questionId": "1349",
+        "difficulty": "Easy",
+        "topics": [
+            "Array",
+            "Math",
+            "Geometry"
+        ]
+    },
+    "minimum-operations-to-sort-a-string": {
+        "questionId": "4220",
+        "difficulty": "Medium",
+        "topics": [
+            "String"
+        ]
     }
 }

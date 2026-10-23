@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 173
-- **Easy:** 53
-- **Medium:** 102
+- **Total Problems:** 175
+- **Easy:** 54
+- **Medium:** 103
 - **Hard:** 18
 
 ---
@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1020-longest-turbulent-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1020-longest-turbulent-subarray/) | Medium |
 | [1127-last-stone-weight](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1127-last-stone-weight/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1256-rank-transform-of-an-array/) | Easy |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1349-check-if-it-is-a-straight-line/) | Easy |
 | [1386-shift-2d-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1386-shift-2d-grid/) | Easy |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1574-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0149-max-points-on-a-line/) | Hard |
 | [0866-rectangle-overlap](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0866-rectangle-overlap/) | Easy |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1349-check-if-it-is-a-straight-line/) | Easy |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2206-detonate-the-maximum-bombs/) | Medium |
 
 ## Graph Theory
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
 | [0866-rectangle-overlap](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0866-rectangle-overlap/) | Easy |
 | [0909-stone-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0909-stone-game/) | Medium |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1349-check-if-it-is-a-straight-line/) | Easy |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1585-the-kth-factor-of-n](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1585-the-kth-factor-of-n/) | Medium |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2106-find-greatest-common-divisor-of-array/) | Easy |
@@ -804,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3812-smallest-palindromic-rearrangement-i/) | Medium |
 | [3993-transform-binary-string-using-subsequence-sort](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3993-transform-binary-string-using-subsequence-sort/) | Medium |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4087-maximum-substrings-with-distinct-start/) | Medium |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4220-minimum-operations-to-sort-a-string/) | Medium |
 | [4282-sort-vowels-by-frequency](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4282-sort-vowels-by-frequency/) | Medium |
 
 ## Topological Sort
