@@ -1638,5 +1638,13 @@
         "topics": [
             "String"
         ]
+    },
+    "count-days-spent-together": {
+        "questionId": "2496",
+        "difficulty": "Easy",
+        "topics": [
+            "Math",
+            "String"
+        ]
     }
 }

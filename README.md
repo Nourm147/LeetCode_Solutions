@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 175
-- **Easy:** 54
+- **Total Problems:** 176
+- **Easy:** 55
 - **Medium:** 103
 - **Hard:** 18
 
@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1585-the-kth-factor-of-n](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1585-the-kth-factor-of-n/) | Medium |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2106-find-greatest-common-divisor-of-array/) | Easy |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2206-detonate-the-maximum-bombs/) | Medium |
+| [2496-count-days-spent-together](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2496-count-days-spent-together/) | Easy |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2609-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -800,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1737-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2095-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2099-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2496-count-days-spent-together](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2496-count-days-spent-together/) | Easy |
 | [2580-circular-sentence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2580-circular-sentence/) | Easy |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3349-maximum-length-substring-with-two-occurrences/) | Easy |
