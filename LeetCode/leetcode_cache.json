@@ -1646,5 +1646,10 @@
             "Math",
             "String"
         ]
+    },
+    "create-grid-with-exactly-one-path": {
+        "questionId": "4342",
+        "difficulty": "Easy",
+        "topics": []
     }
 }

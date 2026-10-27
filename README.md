@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 176
-- **Easy:** 55
+- **Total Problems:** 177
+- **Easy:** 56
 - **Medium:** 103
 - **Hard:** 18
 
