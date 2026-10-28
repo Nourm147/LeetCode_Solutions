@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 177
+- **Total Problems:** 178
 - **Easy:** 56
-- **Medium:** 103
+- **Medium:** 104
 - **Hard:** 18
 
 ---
@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4107-find-missing-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4107-find-missing-elements/) | Easy |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4139-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4196-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4205-minimum-xor-path-in-a-grid/) | Medium |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4242-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4284-smallest-stable-index-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4284-smallest-stable-index-i/) | Easy |
 | [4285-smallest-stable-index-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4285-smallest-stable-index-ii/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3824-number-of-unique-xor-triplets-i/) | Medium |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4033-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4205-minimum-xor-path-in-a-grid/) | Medium |
 
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3919-network-recovery-pathways](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3919-network-recovery-pathways/) | Hard |
 | [4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4196-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4205-minimum-xor-path-in-a-grid/) | Medium |
 
 ## Enumeration
 | Problem Name | Difficulty |
@@ -580,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0772-construct-quad-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0772-construct-quad-tree/) | Medium |
 | [1386-shift-2d-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1386-shift-2d-grid/) | Easy |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2349-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4205-minimum-xor-path-in-a-grid/) | Medium |
 
 ## Merge Sort
 | Problem Name | Difficulty |

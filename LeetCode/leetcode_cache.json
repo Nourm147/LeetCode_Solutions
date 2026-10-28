@@ -1651,5 +1651,15 @@
         "questionId": "4342",
         "difficulty": "Easy",
         "topics": []
+    },
+    "minimum-xor-path-in-a-grid": {
+        "questionId": "4205",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Matrix"
+        ]
     }
 }
