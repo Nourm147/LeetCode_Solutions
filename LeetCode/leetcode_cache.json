@@ -1661,5 +1661,13 @@
             "Bit Manipulation",
             "Matrix"
         ]
+    },
+    "minimum-moves-to-equal-array-elements": {
+        "questionId": "0453",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Math"
+        ]
     }
 }

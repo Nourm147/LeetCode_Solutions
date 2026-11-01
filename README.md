@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 178
+- **Total Problems:** 179
 - **Easy:** 56
-- **Medium:** 104
+- **Medium:** 105
 - **Hard:** 18
 
 ---
@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0274-h-index/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0417-pacific-atlantic-water-flow/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0454-4sum-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0149-max-points-on-a-line/) | Hard |
 | [0204-count-primes](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0204-count-primes/) | Medium |
 | [0292-nim-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0292-nim-game/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0507-perfect-number/) | Easy |
