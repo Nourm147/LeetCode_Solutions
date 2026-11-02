@@ -1,25 +1,16 @@
 class Solution {
 public:
-
-    int dp[10005];
-    int solve(int rem)
-    {
-        if(rem == 0)
-            return 0;
-
-        if(~dp[rem])
-            return dp[rem];
-
-        int ans = rem;
-        for(int i = 1; i * i <= rem; i++)
-            ans = min(ans, 1 + solve(rem - i * i));
-
-        return dp[rem] = ans;
-    }
-
-
     int numSquares(int n) {
-        memset(dp, -1, sizeof(dp));
-        return solve(n);        
+        vector<int> dp(n + 1, 0);
+
+        for(int i = 1; i <= n; i++)
+        {
+            dp[i] = i;
+            for(int j = 1; j * j <= i; j++){
+                dp[i] = min(dp[i], 1 + dp[i - j * j]);
+            }
+        }
+        
+        return dp[n];  
     }
 };
