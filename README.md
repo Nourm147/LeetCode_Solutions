@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 179
-- **Easy:** 56
+- **Total Problems:** 180
+- **Easy:** 57
 - **Medium:** 105
 - **Hard:** 18
 
@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0149-max-points-on-a-line/) | Hard |
 | [0204-count-primes](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0204-count-primes/) | Medium |
 | [0292-nim-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0292-nim-game/) | Easy |
@@ -586,6 +588,11 @@ Collection of LeetCode questions to ace the coding interview!
 | [1386-shift-2d-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1386-shift-2d-grid/) | Easy |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2349-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4205-minimum-xor-path-in-a-grid/) | Medium |
+
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0070-climbing-stairs/) | Easy |
 
 ## Merge Sort
 | Problem Name | Difficulty |

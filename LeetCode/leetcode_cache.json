@@ -1669,5 +1669,14 @@
             "Array",
             "Math"
         ]
+    },
+    "climbing-stairs": {
+        "questionId": "0070",
+        "difficulty": "Easy",
+        "topics": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+        ]
     }
 }
