@@ -1708,5 +1708,14 @@
             "Array",
             "Dynamic Programming"
         ]
+    },
+    "minimum-cost-to-cut-a-stick": {
+        "questionId": "1669",
+        "difficulty": "Hard",
+        "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Sorting"
+        ]
     }
 }

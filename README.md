@@ -5,10 +5,10 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 183
+- **Total Problems:** 184
 - **Easy:** 57
 - **Medium:** 107
-- **Hard:** 19
+- **Hard:** 20
 
 ---
 
@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1386-shift-2d-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1386-shift-2d-grid/) | Easy |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1574-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
 | [1952-minimum-sideway-jumps](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1952-minimum-sideway-jumps/) | Medium |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2040-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2099-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0954-maximum-sum-circular-subarray/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1020-longest-turbulent-subarray/) | Medium |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
 | [1952-minimum-sideway-jumps](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1952-minimum-sideway-jumps/) | Medium |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2040-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2349-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -778,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0941-sort-array-by-parity/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1256-rank-transform-of-an-array/) | Easy |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1574-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2210-find-target-indices-after-sorting-array/) | Easy |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2418-minimum-sum-of-squared-difference/) | Medium |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
