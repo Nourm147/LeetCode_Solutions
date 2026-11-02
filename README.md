@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 182
+- **Total Problems:** 183
 - **Easy:** 57
-- **Medium:** 106
+- **Medium:** 107
 - **Hard:** 19
 
 ---
@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0149-max-points-on-a-line/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0238-product-of-array-except-self/) | Medium |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |

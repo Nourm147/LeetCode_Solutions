@@ -1700,5 +1700,13 @@
             "Knapsack Problem",
             "Complete Knapsack"
         ]
+    },
+    "house-robber": {
+        "questionId": "0198",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
     }
 }
