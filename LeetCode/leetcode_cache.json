@@ -1678,5 +1678,16 @@
             "Dynamic Programming",
             "Memoization"
         ]
+    },
+    "binary-tree-maximum-path-sum": {
+        "questionId": "0124",
+        "difficulty": "Hard",
+        "topics": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree",
+            "DP on Trees"
+        ]
     }
 }

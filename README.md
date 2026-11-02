@@ -5,10 +5,10 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 180
+- **Total Problems:** 181
 - **Easy:** 57
 - **Medium:** 105
-- **Hard:** 18
+- **Hard:** 19
 
 ---
 
@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0563-binary-tree-tilt](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0563-binary-tree-tilt/) | Easy |
 
 ## Data Stream
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0133-clone-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0145-binary-tree-postorder-traversal/) | Easy |
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0070-climbing-stairs/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
@@ -854,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
