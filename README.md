@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 181
+- **Total Problems:** 182
 - **Easy:** 57
-- **Medium:** 105
+- **Medium:** 106
 - **Hard:** 19
 
 ---
@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0655-print-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0655-print-binary-tree/) | Medium |
 | [0871-keys-and-rooms](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0871-keys-and-rooms/) | Medium |
@@ -260,6 +261,11 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0062-unique-paths/) | Medium |
+
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 
 ## Counting
 | Problem Name | Difficulty |
@@ -360,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0152-maximum-product-subarray/) | Medium |
+| [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -511,6 +518,11 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
+
 ## Least Common Multiple
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0149-max-points-on-a-line/) | Hard |
 | [0204-count-primes](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0204-count-primes/) | Medium |
+| [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0292-nim-game/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0477-total-hamming-distance/) | Medium |

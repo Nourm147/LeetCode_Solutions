@@ -1689,5 +1689,16 @@
             "Binary Tree",
             "DP on Trees"
         ]
+    },
+    "perfect-squares": {
+        "questionId": "0279",
+        "difficulty": "Medium",
+        "topics": [
+            "Math",
+            "Dynamic Programming",
+            "Breadth-First Search",
+            "Knapsack Problem",
+            "Complete Knapsack"
+        ]
     }
 }
