@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 184
-- **Easy:** 57
+- **Total Problems:** 185
+- **Easy:** 58
 - **Medium:** 107
 - **Hard:** 20
 
@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4080-smallest-missing-multiple-of-k](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4080-smallest-missing-multiple-of-k/) | Easy |
 | [4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [4107-find-missing-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4107-find-missing-elements/) | Easy |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4116-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4139-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4196-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4205-minimum-xor-path-in-a-grid/) | Medium |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3918-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3995-gcd-of-odd-and-even-sums/) | Easy |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4084-maximize-sum-of-squares-of-digits/) | Medium |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4116-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4139-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4242-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4245-count-commas-in-range](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4245-count-commas-in-range/) | Easy |

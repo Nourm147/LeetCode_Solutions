@@ -1717,5 +1717,13 @@
             "Dynamic Programming",
             "Sorting"
         ]
+    },
+    "minimum-moves-to-equal-array-elements-iii": {
+        "questionId": "4116",
+        "difficulty": "Easy",
+        "topics": [
+            "Array",
+            "Math"
+        ]
     }
 }
