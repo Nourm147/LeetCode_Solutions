@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 186
+- **Total Problems:** 187
 - **Easy:** 59
-- **Medium:** 107
+- **Medium:** 108
 - **Hard:** 20
 
 ---
@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3170-find-indices-with-index-and-value-difference-ii/) | Medium |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3225-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3562-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2418-minimum-sum-of-squared-difference](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2418-minimum-sum-of-squared-difference/) | Medium |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3993-transform-binary-string-using-subsequence-sort](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3993-transform-binary-string-using-subsequence-sort/) | Medium |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4078-maximum-alternating-sum-of-squares/) | Medium |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4084-maximize-sum-of-squares-of-digits/) | Medium |
@@ -677,6 +679,11 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0523-continuous-subarray-sum/) | Medium |
 
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
+
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -685,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0831-largest-sum-of-averages](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0831-largest-sum-of-averages/) | Medium |
 | [2721-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2721-sum-of-distances/) | Medium |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4196-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4284-smallest-stable-index-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4284-smallest-stable-index-i/) | Easy |
 | [4285-smallest-stable-index-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4285-smallest-stable-index-ii/) | Medium |
@@ -791,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3562-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3812-smallest-palindromic-rearrangement-i/) | Medium |
 | [3859-maximum-product-of-two-digits](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3859-maximum-product-of-two-digits/) | Easy |

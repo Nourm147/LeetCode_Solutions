@@ -1735,5 +1735,16 @@
             "Binary Search",
             "Sorting"
         ]
+    },
+    "find-polygon-with-the-largest-perimeter": {
+        "questionId": "3262",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Prefix Sum",
+            "Polygons"
+        ]
     }
 }
