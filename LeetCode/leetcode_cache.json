@@ -1725,5 +1725,15 @@
             "Array",
             "Math"
         ]
+    },
+    "find-the-distance-value-between-two-arrays": {
+        "questionId": "1486",
+        "difficulty": "Easy",
+        "topics": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+        ]
     }
 }
