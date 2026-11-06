@@ -1767,5 +1767,13 @@
             "Knapsack Problem",
             "Complete Knapsack"
         ]
+    },
+    "integer-break": {
+        "questionId": "0343",
+        "difficulty": "Medium",
+        "topics": [
+            "Math",
+            "Dynamic Programming"
+        ]
     }
 }

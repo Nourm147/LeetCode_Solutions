@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 189
+- **Total Problems:** 190
 - **Easy:** 59
-- **Medium:** 110
+- **Medium:** 111
 - **Hard:** 20
 
 ---
@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
+| [0343-integer-break](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0343-integer-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0518-coin-change-ii/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0204-count-primes/) | Medium |
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0292-nim-game/) | Easy |
+| [0343-integer-break](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0343-integer-break/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
