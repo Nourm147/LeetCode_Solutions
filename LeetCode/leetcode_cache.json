@@ -1757,5 +1757,15 @@
             "Knapsack Problem",
             "Complete Knapsack"
         ]
+    },
+    "coin-change-ii": {
+        "questionId": "0518",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Knapsack Problem",
+            "Complete Knapsack"
+        ]
     }
 }
