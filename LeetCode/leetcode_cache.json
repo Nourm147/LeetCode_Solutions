@@ -1785,5 +1785,16 @@
             "Knapsack Problem",
             "0-1 Knapsack"
         ]
+    },
+    "target-sum": {
+        "questionId": "0494",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+        ]
     }
 }

@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 191
+- **Total Problems:** 192
 - **Easy:** 59
-- **Medium:** 112
+- **Medium:** 113
 - **Hard:** 20
 
 ---
@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0494-target-sum/) | Medium |
 
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0477-total-hamming-distance](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0654-maximum-binary-tree/) | Medium |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
+| [0494-target-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0494-target-sum/) | Medium |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 
 ## Binary Indexed Tree
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0343-integer-break](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0518-coin-change-ii/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -548,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0518-coin-change-ii/) | Medium |
 
 ## Least Common Multiple
