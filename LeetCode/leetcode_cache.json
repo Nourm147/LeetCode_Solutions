@@ -1805,5 +1805,13 @@
             "Dynamic Programming",
             "Longest Common Subsequence"
         ]
+    },
+    "edit-distance": {
+        "questionId": "0072",
+        "difficulty": "Medium",
+        "topics": [
+            "String",
+            "Dynamic Programming"
+        ]
     }
 }

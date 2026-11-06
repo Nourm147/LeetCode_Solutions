@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 193
+- **Total Problems:** 194
 - **Easy:** 59
-- **Medium:** 114
+- **Medium:** 115
 - **Hard:** 20
 
 ---
@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0198-house-robber/) | Medium |
@@ -871,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0058-length-of-last-word/) | Easy |
+| [0072-edit-distance](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0076-minimum-window-substring/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0886-score-of-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0886-score-of-parentheses/) | Medium |
