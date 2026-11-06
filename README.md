@@ -5,12 +5,17 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 190
+- **Total Problems:** 191
 - **Easy:** 59
-- **Medium:** 111
+- **Medium:** 112
 - **Hard:** 20
 
 ---
+
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0416-partition-equal-subset-sum/) | Medium |
 
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -56,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0274-h-index/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0454-4sum-ii/) | Medium |
@@ -381,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0343-integer-break/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0518-coin-change-ii/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
@@ -540,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0518-coin-change-ii/) | Medium |
 
 ## Least Common Multiple

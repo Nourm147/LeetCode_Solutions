@@ -1775,5 +1775,15 @@
             "Math",
             "Dynamic Programming"
         ]
+    },
+    "partition-equal-subset-sum": {
+        "questionId": "0416",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+        ]
     }
 }
