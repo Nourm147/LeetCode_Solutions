@@ -1746,5 +1746,16 @@
             "Prefix Sum",
             "Polygons"
         ]
+    },
+    "coin-change": {
+        "questionId": "0322",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Dynamic Programming",
+            "Breadth-First Search",
+            "Knapsack Problem",
+            "Complete Knapsack"
+        ]
     }
 }

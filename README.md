@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 187
+- **Total Problems:** 188
 - **Easy:** 59
-- **Medium:** 108
+- **Medium:** 109
 - **Hard:** 20
 
 ---
@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0274-h-index](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0274-h-index/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0454-4sum-ii/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0655-print-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0655-print-binary-tree/) | Medium |
 | [0871-keys-and-rooms](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0871-keys-and-rooms/) | Medium |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
 
 ## Counting
 | Problem Name | Difficulty |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0650-2-keys-keyboard/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -531,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
 
 ## Least Common Multiple
 | Problem Name | Difficulty |
