@@ -5,10 +5,10 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 194
+- **Total Problems:** 195
 - **Easy:** 59
 - **Medium:** 115
-- **Hard:** 20
+- **Hard:** 21
 
 ---
 
@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0909-stone-game/) | Medium |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0954-maximum-sum-circular-subarray/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1020-longest-turbulent-subarray/) | Medium |
+| [1170-shortest-common-supersequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1170-shortest-common-supersequence/) | Hard |
 | [1250-longest-common-subsequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1250-longest-common-subsequence/) | Medium |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1170-shortest-common-supersequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1170-shortest-common-supersequence/) | Hard |
 | [1250-longest-common-subsequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1250-longest-common-subsequence/) | Medium |
 
 ## Manacher
@@ -878,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0886-score-of-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0886-score-of-parentheses/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0957-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1078-remove-outermost-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1078-remove-outermost-parentheses/) | Easy |
+| [1170-shortest-common-supersequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1170-shortest-common-supersequence/) | Hard |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1208-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1250-longest-common-subsequence/) | Medium |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1737-maximum-nesting-depth-of-the-parentheses/) | Easy |

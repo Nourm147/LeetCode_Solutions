@@ -1813,5 +1813,14 @@
             "String",
             "Dynamic Programming"
         ]
+    },
+    "shortest-common-supersequence": {
+        "questionId": "1170",
+        "difficulty": "Hard",
+        "topics": [
+            "String",
+            "Dynamic Programming",
+            "Longest Common Subsequence"
+        ]
     }
 }
