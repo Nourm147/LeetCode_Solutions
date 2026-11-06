@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 192
+- **Total Problems:** 193
 - **Easy:** 59
-- **Medium:** 113
+- **Medium:** 114
 - **Hard:** 20
 
 ---
@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0909-stone-game/) | Medium |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0954-maximum-sum-circular-subarray/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1020-longest-turbulent-subarray/) | Medium |
+| [1250-longest-common-subsequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1250-longest-common-subsequence/) | Medium |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
 | [1952-minimum-sideway-jumps](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1952-minimum-sideway-jumps/) | Medium |
@@ -572,6 +573,11 @@ Collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0725-split-linked-list-in-parts/) | Medium |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-longest-common-subsequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1250-longest-common-subsequence/) | Medium |
 
 ## Manacher
 | Problem Name | Difficulty |
@@ -871,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0957-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1078-remove-outermost-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1078-remove-outermost-parentheses/) | Easy |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1208-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1250-longest-common-subsequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1250-longest-common-subsequence/) | Medium |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1737-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2095-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2099-number-of-strings-that-appear-as-substrings-in-word/) | Easy |

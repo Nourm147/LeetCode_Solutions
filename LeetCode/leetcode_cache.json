@@ -1796,5 +1796,14 @@
             "Knapsack Problem",
             "0-1 Knapsack"
         ]
+    },
+    "longest-common-subsequence": {
+        "questionId": "1250",
+        "difficulty": "Medium",
+        "topics": [
+            "String",
+            "Dynamic Programming",
+            "Longest Common Subsequence"
+        ]
     }
 }
