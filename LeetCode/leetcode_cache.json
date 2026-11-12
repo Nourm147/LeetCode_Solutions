@@ -1822,5 +1822,12 @@
             "Dynamic Programming",
             "Longest Common Subsequence"
         ]
+    },
+    "longest-strictly-increasing-or-strictly-decreasing-subarray": {
+        "questionId": "3372",
+        "difficulty": "Easy",
+        "topics": [
+            "Array"
+        ]
     }
 }

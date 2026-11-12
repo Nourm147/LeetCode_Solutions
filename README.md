@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 195
-- **Easy:** 59
+- **Total Problems:** 196
+- **Easy:** 60
 - **Medium:** 115
 - **Hard:** 21
 
@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3372-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3562-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
