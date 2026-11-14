@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 196
-- **Easy:** 60
+- **Total Problems:** 197
+- **Easy:** 61
 - **Medium:** 115
 - **Hard:** 21
 
@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3372-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3562-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3644-minimum-positive-sum-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3644-minimum-positive-sum-subarray/) | Easy |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3705-find-the-largest-almost-missing-integer/) | Easy |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3799-unique-3-digit-even-numbers/) | Easy |
@@ -727,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0831-largest-sum-of-averages](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0831-largest-sum-of-averages/) | Medium |
 | [2721-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2721-sum-of-distances/) | Medium |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3644-minimum-positive-sum-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3644-minimum-positive-sum-subarray/) | Easy |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4196-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4284-smallest-stable-index-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/4284-smallest-stable-index-i/) | Easy |
 | [4285-smallest-stable-index-ii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4285-smallest-stable-index-ii/) | Medium |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3225-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3349-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3644-minimum-positive-sum-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3644-minimum-positive-sum-subarray/) | Easy |
 
 ## Sorting
 | Problem Name | Difficulty |

@@ -1829,5 +1829,14 @@
         "topics": [
             "Array"
         ]
+    },
+    "minimum-positive-sum-subarray": {
+        "questionId": "3644",
+        "difficulty": "Easy",
+        "topics": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+        ]
     }
 }
