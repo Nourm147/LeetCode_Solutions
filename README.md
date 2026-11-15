@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 197
+- **Total Problems:** 198
 - **Easy:** 61
-- **Medium:** 115
+- **Medium:** 116
 - **Hard:** 21
 
 ---
@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1486-find-the-distance-value-between-two-arrays/) | Easy |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1574-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1631-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
 | [1952-minimum-sideway-jumps](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1952-minimum-sideway-jumps/) | Medium |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2040-minimum-cost-to-reach-destination-in-time/) | Hard |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1170-shortest-common-supersequence/) | Hard |
 | [1250-longest-common-subsequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1250-longest-common-subsequence/) | Medium |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1631-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
 | [1952-minimum-sideway-jumps](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1952-minimum-sideway-jumps/) | Medium |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2040-minimum-cost-to-reach-destination-in-time/) | Hard |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1349-check-if-it-is-a-straight-line/) | Easy |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1585-the-kth-factor-of-n](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1585-the-kth-factor-of-n/) | Medium |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1631-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2106-find-greatest-common-divisor-of-array/) | Easy |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2206-detonate-the-maximum-bombs/) | Medium |
 | [2496-count-days-spent-together](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2496-count-days-spent-together/) | Easy |
@@ -726,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0831-largest-sum-of-averages](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0831-largest-sum-of-averages/) | Medium |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1631-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2721-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2721-sum-of-distances/) | Medium |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3644-minimum-positive-sum-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3644-minimum-positive-sum-subarray/) | Easy |

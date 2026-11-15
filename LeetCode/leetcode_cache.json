@@ -1838,5 +1838,15 @@
             "Sliding Window",
             "Prefix Sum"
         ]
+    },
+    "number-of-sub-arrays-with-odd-sum": {
+        "questionId": "1631",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Prefix Sum"
+        ]
     }
 }
