@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 198
-- **Easy:** 61
+- **Total Problems:** 199
+- **Easy:** 62
 - **Medium:** 116
 - **Hard:** 21
 
@@ -803,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1386-shift-2d-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1386-shift-2d-grid/) | Easy |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2265-partition-array-according-to-given-pivot/) | Medium |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2361-calculate-digit-sum-of-a-string/) | Easy |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy |
 | [3811-reverse-degree-of-a-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3811-reverse-degree-of-a-string/) | Easy |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4242-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -894,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1737-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2095-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2099-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2361-calculate-digit-sum-of-a-string/) | Easy |
 | [2496-count-days-spent-together](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2496-count-days-spent-together/) | Easy |
 | [2580-circular-sentence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2580-circular-sentence/) | Easy |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |

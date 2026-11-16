@@ -1848,5 +1848,13 @@
             "Dynamic Programming",
             "Prefix Sum"
         ]
+    },
+    "calculate-digit-sum-of-a-string": {
+        "questionId": "2361",
+        "difficulty": "Easy",
+        "topics": [
+            "String",
+            "Simulation"
+        ]
     }
 }
