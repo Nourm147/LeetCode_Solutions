@@ -1856,5 +1856,15 @@
             "String",
             "Simulation"
         ]
+    },
+    "maximum-profit-in-job-scheduling": {
+        "questionId": "1352",
+        "difficulty": "Hard",
+        "topics": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming",
+            "Sorting"
+        ]
     }
 }

@@ -5,10 +5,10 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 199
+- **Total Problems:** 200
 - **Easy:** 62
 - **Medium:** 116
-- **Hard:** 21
+- **Hard:** 22
 
 ---
 
@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1127-last-stone-weight/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1256-rank-transform-of-an-array/) | Easy |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1349-check-if-it-is-a-straight-line/) | Easy |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1352-maximum-profit-in-job-scheduling/) | Hard |
 | [1386-shift-2d-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1386-shift-2d-grid/) | Easy |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1486-find-the-distance-value-between-two-arrays/) | Easy |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0493-reverse-pairs/) | Hard |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1352-maximum-profit-in-job-scheduling/) | Hard |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1486-find-the-distance-value-between-two-arrays/) | Easy |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2210-find-target-indices-after-sorting-array/) | Easy |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2418-minimum-sum-of-squared-difference/) | Medium |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1020-longest-turbulent-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1020-longest-turbulent-subarray/) | Medium |
 | [1170-shortest-common-supersequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1170-shortest-common-supersequence/) | Hard |
 | [1250-longest-common-subsequence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1250-longest-common-subsequence/) | Medium |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1352-maximum-profit-in-job-scheduling/) | Hard |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1631-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
@@ -833,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0941-sort-array-by-parity](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0941-sort-array-by-parity/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1256-rank-transform-of-an-array/) | Easy |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1352-maximum-profit-in-job-scheduling/) | Hard |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1486-find-the-distance-value-between-two-arrays/) | Easy |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1574-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
