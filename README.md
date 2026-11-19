@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 200
+- **Total Problems:** 201
 - **Easy:** 62
-- **Medium:** 116
+- **Medium:** 117
 - **Hard:** 22
 
 ---
@@ -903,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2496-count-days-spent-together](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2496-count-days-spent-together/) | Easy |
 | [2580-circular-sentence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2580-circular-sentence/) | Easy |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3174-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3349-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3811-reverse-degree-of-a-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3811-reverse-degree-of-a-string/) | Easy |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3812-smallest-palindromic-rearrangement-i/) | Medium |

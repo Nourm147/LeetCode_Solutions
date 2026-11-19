@@ -1866,5 +1866,12 @@
             "Dynamic Programming",
             "Sorting"
         ]
+    },
+    "minimum-number-of-changes-to-make-binary-string-beautiful": {
+        "questionId": "3174",
+        "difficulty": "Medium",
+        "topics": [
+            "String"
+        ]
     }
 }
