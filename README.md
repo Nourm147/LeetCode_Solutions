@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 201
+- **Total Problems:** 202
 - **Easy:** 62
-- **Medium:** 117
+- **Medium:** 118
 - **Hard:** 22
 
 ---
@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2418-minimum-sum-of-squared-difference](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2418-minimum-sum-of-squared-difference/) | Medium |
 | [2478-longest-nice-subarray](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2478-longest-nice-subarray/) | Medium |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2609-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2706-minimum-score-by-changing-two-elements/) | Medium |
 | [2721-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2721-sum-of-distances/) | Medium |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2844-sum-of-squares-of-special-elements/) | Easy |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2095-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2418-minimum-sum-of-squared-difference/) | Medium |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2706-minimum-score-by-changing-two-elements/) | Medium |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
@@ -842,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1669-minimum-cost-to-cut-a-stick/) | Hard |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2210-find-target-indices-after-sorting-array/) | Easy |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2418-minimum-sum-of-squared-difference/) | Medium |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2706-minimum-score-by-changing-two-elements/) | Medium |
 | [2754-maximum-strength-of-a-group](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2754-maximum-strength-of-a-group/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
