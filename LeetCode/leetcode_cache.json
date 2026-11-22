@@ -1882,5 +1882,12 @@
             "Greedy",
             "Sorting"
         ]
+    },
+    "check-if-all-as-appears-before-all-bs": {
+        "questionId": "2243",
+        "difficulty": "Easy",
+        "topics": [
+            "String"
+        ]
     }
 }

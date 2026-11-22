@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 202
-- **Easy:** 62
+- **Total Problems:** 203
+- **Easy:** 63
 - **Medium:** 118
 - **Hard:** 22
 
@@ -902,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1737-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2095-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2099-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2243-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2361-calculate-digit-sum-of-a-string/) | Easy |
 | [2496-count-days-spent-together](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2496-count-days-spent-together/) | Easy |
 | [2580-circular-sentence](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2580-circular-sentence/) | Easy |
