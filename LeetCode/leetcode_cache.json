@@ -1889,5 +1889,16 @@
         "topics": [
             "String"
         ]
+    },
+    "product-of-the-last-k-numbers": {
+        "questionId": "1477",
+        "difficulty": "Medium",
+        "topics": [
+            "Array",
+            "Math",
+            "Design",
+            "Data Stream",
+            "Prefix Sum"
+        ]
     }
 }

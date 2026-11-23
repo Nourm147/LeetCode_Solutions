@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 203
+- **Total Problems:** 204
 - **Easy:** 63
-- **Medium:** 118
+- **Medium:** 119
 - **Hard:** 22
 
 ---
@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1349-check-if-it-is-a-straight-line/) | Easy |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1352-maximum-profit-in-job-scheduling/) | Hard |
 | [1386-shift-2d-grid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1386-shift-2d-grid/) | Easy |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1477-product-of-the-last-k-numbers/) | Medium |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1486-find-the-distance-value-between-two-arrays/) | Easy |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1574-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0295-find-median-from-data-stream/) | Hard |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1477-product-of-the-last-k-numbers/) | Medium |
 
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/0295-find-median-from-data-stream/) | Hard |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1387-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1477-product-of-the-last-k-numbers/) | Medium |
 
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
@@ -623,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0866-rectangle-overlap](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0866-rectangle-overlap/) | Easy |
 | [0909-stone-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0909-stone-game/) | Medium |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1349-check-if-it-is-a-straight-line/) | Easy |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1477-product-of-the-last-k-numbers/) | Medium |
 | [1522-stone-game-iii](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/1522-stone-game-iii/) | Hard |
 | [1585-the-kth-factor-of-n](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1585-the-kth-factor-of-n/) | Medium |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1631-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -734,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0831-largest-sum-of-averages](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0831-largest-sum-of-averages/) | Medium |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1477-product-of-the-last-k-numbers/) | Medium |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1631-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2721-sum-of-distances](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2721-sum-of-distances/) | Medium |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3262-find-polygon-with-the-largest-perimeter/) | Medium |
