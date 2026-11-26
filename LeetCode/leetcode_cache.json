@@ -1900,5 +1900,14 @@
             "Data Stream",
             "Prefix Sum"
         ]
+    },
+    "n-ary-tree-preorder-traversal": {
+        "questionId": "0775",
+        "difficulty": "Easy",
+        "topics": [
+            "Stack",
+            "Tree",
+            "Depth-First Search"
+        ]
     }
 }

@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 204
-- **Easy:** 63
+- **Total Problems:** 205
+- **Easy:** 64
 - **Medium:** 119
 - **Hard:** 22
 
@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0563-binary-tree-tilt/) | Easy |
 | [0655-print-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0655-print-binary-tree/) | Medium |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0775-n-ary-tree-preorder-traversal/) | Easy |
 | [0832-binary-tree-pruning](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0832-binary-tree-pruning/) | Medium |
 | [0871-keys-and-rooms](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0871-keys-and-rooms/) | Medium |
 | [0975-range-sum-of-bst](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0975-range-sum-of-bst/) | Easy |
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0654-maximum-binary-tree/) | Medium |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0775-n-ary-tree-preorder-traversal/) | Easy |
 | [0886-score-of-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0886-score-of-parentheses/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0957-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1078-remove-outermost-parentheses](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1078-remove-outermost-parentheses/) | Easy |
@@ -960,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0655-print-binary-tree/) | Medium |
 | [0772-construct-quad-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0772-construct-quad-tree/) | Medium |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0775-n-ary-tree-preorder-traversal/) | Easy |
 | [0832-binary-tree-pruning](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0832-binary-tree-pruning/) | Medium |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0925-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0975-range-sum-of-bst](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0975-range-sum-of-bst/) | Easy |
