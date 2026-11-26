@@ -1909,5 +1909,14 @@
             "Tree",
             "Depth-First Search"
         ]
+    },
+    "n-ary-tree-postorder-traversal": {
+        "questionId": "0776",
+        "difficulty": "Easy",
+        "topics": [
+            "Stack",
+            "Tree",
+            "Depth-First Search"
+        ]
     }
 }
