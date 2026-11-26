@@ -1918,5 +1918,13 @@
             "Tree",
             "Depth-First Search"
         ]
+    },
+    "n-ary-tree-level-order-traversal": {
+        "questionId": "0764",
+        "difficulty": "Medium",
+        "topics": [
+            "Tree",
+            "Breadth-First Search"
+        ]
     }
 }

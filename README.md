@@ -5,9 +5,9 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 206
+- **Total Problems:** 207
 - **Easy:** 65
-- **Medium:** 119
+- **Medium:** 120
 - **Hard:** 22
 
 ---
@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0655-print-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0655-print-binary-tree/) | Medium |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0764-n-ary-tree-level-order-traversal/) | Medium |
 | [0871-keys-and-rooms](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0871-keys-and-rooms/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/1005-univalued-binary-tree/) | Easy |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/1387-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -963,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0563-binary-tree-tilt](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0563-binary-tree-tilt/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0655-print-binary-tree/) | Medium |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0764-n-ary-tree-level-order-traversal/) | Medium |
 | [0772-construct-quad-tree](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/0772-construct-quad-tree/) | Medium |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0775-n-ary-tree-preorder-traversal/) | Easy |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/0776-n-ary-tree-postorder-traversal/) | Easy |
