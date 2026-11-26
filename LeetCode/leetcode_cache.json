@@ -1926,5 +1926,13 @@
             "Tree",
             "Breadth-First Search"
         ]
+    },
+    "stone-removal-game": {
+        "questionId": "3625",
+        "difficulty": "Easy",
+        "topics": [
+            "Math",
+            "Simulation"
+        ]
     }
 }

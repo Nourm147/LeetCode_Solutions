@@ -5,8 +5,8 @@ Collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 
 ## Statistics
-- **Total Problems:** 207
-- **Easy:** 65
+- **Total Problems:** 208
+- **Easy:** 66
 - **Medium:** 120
 - **Hard:** 22
 
@@ -639,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2609-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/2919-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3608-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3625-stone-removal-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3625-stone-removal-game/) | Easy |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3626-smallest-divisible-digit-product-i/) | Easy |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Hard/3680-count-connected-components-in-lcm-graph/) | Hard |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/3824-number-of-unique-xor-triplets-i/) | Medium |
@@ -818,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/2265-partition-array-according-to-given-pivot/) | Medium |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/2361-calculate-digit-sum-of-a-string/) | Easy |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy |
+| [3625-stone-removal-game](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3625-stone-removal-game/) | Easy |
 | [3811-reverse-degree-of-a-string](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Easy/3811-reverse-degree-of-a-string/) | Easy |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Nourm147/LeetCode_Solutions/tree/main/Medium/4242-sum-of-gcd-of-formed-pairs/) | Medium |
 
